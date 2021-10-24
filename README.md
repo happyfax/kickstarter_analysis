@@ -1,15 +1,15 @@
 
-### Kickstarter_Analysis
+## Kickstarter_Analysis
 
-## Project Overview:  
+### Project Overview:  
 This project analyzes how launch date and funding goals relate to outcomes for Kickstarter campaigns classified as Plays:Theater, the subcategory:Category with the largest number of outcomes.
 
-# Purpose and Background:
-The dataset presents a compilation of data regarding Goals, Pledged Donations, Outcomes, Dates Launched, Dates Ended, Project Duration, Staff Picks, Backers, Spotlight, Category, Subcategory, Percentage Funded, Average Donation, and Year of 4114 Kickstarter campaigns from 21 countries (AT AU BE CA CH DE DK ES FR GB HK IE IT LU MX NL NO NZ SE SG US) using (EUR AUD CAD CHF DKK GBP HKD MXN NOK NZD SEK SGD USD).  Analyzing the data reveals parameters for identifying which areas of Kickstarter campaigns are most and least effective in outcome and pledges given associated factors.  
+#### Purpose and Background:
+The dataset presents a compilation of data regarding Goals, Pledged Donations, Outcomes, Dates Launched, Dates Ended, Project Duration, Staff Picks, Backers, Spotlight, Category, Subcategory, Percentage Funded, Average Donation, and Year of 4114 Kickstarter campaigns from 21 countries [AT AU BE CA CH DE DK ES FR GB HK IE IT LU MX NL NO NZ SE SG US] using [EUR AUD CAD CHF DKK GBP HKD MXN NOK NZD SEK SGD USD].  Analyzing the data reveals parameters for identifying which areas of Kickstarter campaigns are most and least effective in outcome and pledges given associated factors.  
 
 ## Analysis and Challenges
 
-# ☒ Deliverable 1: Outcomes Based on Launch Date Chart
+### ☒ Deliverable 1: Outcomes Based on Launch Date Chart
 
 Column J = launched_at
 Column I = deadline 
@@ -30,7 +30,7 @@ Column U: Year
 * Calculated the duration of the campaign using =T2:T4115-S2:S4115 to find that the two-month and three-month mark have the most successes
 
 
-# ☒ Deliverable 2: Outcomes Based on Goals
+### ☒ Deliverable 2: Outcomes Based on Goals
 
 =COUNTIFS('Kickstarter - Main'!$F:$F, "successful", 'Kickstarter - Main'!$D:$D,"<1000",'Kickstarter - Main'!$P:$P,"plays")
 =COUNTIFS('Kickstarter - Main'!$F:$F, "successful", 'Kickstarter - Main'!$D:$D,">=1000", 'Kickstarter - Main'!$D:$D,"<=4999",'Kickstarter - Main'!$P:$P,"plays")
@@ -68,21 +68,21 @@ H=%Canceled
 
 ## Results:  
 
-# Two conclusions that may be drawn by Theater Outcomes by Launch Date:
+### Two conclusions that may be drawn by Theater Outcomes by Launch Date:
 
 ☒ May was a good month for theater outcomes with a peak at 111 successful campaigns
 
 ☒ No one canceled their campaigns in October although the ratio of failing to succeeding campaigns was higher; successful and failed campaigns were equal on December.   
 
-# One conclusion that may be drawn by Outcomes Based on Goals:
+### One conclusion that may be drawn by Outcomes Based on Goals:
 
 ☒ The majority of campaigns (56%) are within the $1000 to $4999 Goal Funding range (with a standard deviation of 108 for Successful, 41 Failed, 148 Total). The Goal funding range 45,000-49999 has the least number of campaigns; successes are inversely proportional to failures in relation to goal ranges.
 
-## Dataset limitations:
+### Dataset limitations:
 
 ☒ Limitations include the range of data (up to 2017),  constituencies/preferences/conditions of optimal cause for patrons to value, and the potential to map regional relations of backers to Kickstarter campaign locations, methods of asking for donations, or optimal incentivization, e.g. the consumer sciences of how fundraising initiatives are more likely to earn more money when asked for open donations rather than specific values.  The range of donations (highest-lowest distribution) amongst donors, to see if and where large donor interests pull the data set, and what is in common amongst their interests.  A possible addendum would be tags on genres that transcend the categories/subcategories, to be able to see if specific themes in the content of the work have any effect on patron interest, the number of collaborators in each project, the criteria for staff picks, if campaigns were relaunched, extent of outreach on campaign viewership in relation to pledged donations.  
 
-# Other possible tables and/or graphs:
+### Other possible tables and/or graphs:
 
 ☒ The pledged to average donation (displayed in the Patron Donation Distribution tab) displays how donation amounts are distributed to show the relation of funding to amount funded.  The resulting graph indicates that a larger amount of smaller average contributions on Kickstarter results in the highest total Pledged Donation Amount.  Within this set, the overall chart of successful campaigns filtered by staff picks appear to have similar distribution patterns, on which more successful campaigns (3842) that are not staff picks far outweigh campaigns that were failed but staff picks (66), which indicates that Staff Picks directly affect the success rate of a campaign (or the factors that make campaigns).   Different categories have different goal trends, and charting successful/failed/canceled campaign genre popularity within different countries would display which genres are prioritized or less incentivized in different areas.  Charting if various subcategories are more successful launched at different times, and if there are any trends that are similar across different Categories, and preferred funding ranges for different genres (or related possible factors such the success of specific musical subcategories per year in relation to billboard chart genre popularity, or leisure activities in different social contexts).  Comparing Kickstarter data to Patreon and other crowdfunding sources would reveal more about [lol].
 
