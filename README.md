@@ -23,12 +23,12 @@ Column U: Year
 =YEAR(S2:S4115)
 
 
-![Theater_Outcomes_vs_Launch.png] (/resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png] (/resources/images/Theater_Outcomes_vs_Launch.png)
 
 ***Possible Challenges***
-* Overcomplicated the Years category:  Tried to translate the launch date number via the following, =YEAR((((((J2/60)/60)/24)+DATE(1970,1,1))))+40150, and =((((K2/60)/60)/24)+DATE(1970,1,1)), then attempted to reference a character within an Excel formula after translating its output by outputting the result to a new cell, converting the cell, and referencing the "yyyy" within the output.
-* =(((M4/60)/60)/24/25550) = 1/0/1900
-* Calculated the duration of the campaign using =T2:T4115-S2:S4115 to find that the two-month and three-month mark have the most successes
+- Overcomplicated the Years category:  Tried to translate the launch date number via the following, =YEAR((((((J2/60)/60)/24)+DATE(1970,1,1))))+40150, and =((((K2/60)/60)/24)+DATE(1970,1,1)), then attempted to reference a character within an Excel formula after translating its output by outputting the result to a new cell, converting the cell, and referencing the "yyyy" within the output.
+- =(((M4/60)/60)/24/25550) = 1/0/1900
+- Calculated the duration of the campaign using =T2:T4115-S2:S4115 to find that the two-month and three-month mark have the most successes
 
 
 ### Deliverable 2: Outcomes Based on Goals
@@ -38,29 +38,29 @@ Column U: Year
 *Added increments of 5000to9999, 10000to14999, 15000to19999, 20000to24999, 25000to29999, 30000to34999, 35000to39999, 40000to44999, 45000to49999, to>50000
 =COUNTIFS('Kickstarter - Main'!$F:$F, "successful", 'Kickstarter - Main'!$D:$D,">=50000", 'Kickstarter - Main'!$P:$P,"plays")
 
-*same formula, with the criteria1 as "failed"
+*same formula, with the criteria1 as "failed"*
 =COUNTIFS('Kickstarter - Main'!$F:$F, "failed", 'Kickstarter - Main'!$D:$D,"<1000",'Kickstarter - Main'!$P:$P,"plays")
 
-*with the criteria1 as "canceled"
+*with the criteria1 as "canceled"*
 =COUNTIFS('Kickstarter - Main'!$F:$F,"canceled", 'Kickstarter - Main'!$D:$D,"<1000",'Kickstarter - Main'!$P:$P,"plays")
 
-*B14:E14
+*B14:E14*
 B=#Successful
 C=#Failed
 D=#Canceled
 E=Total Projects
 =SUM(B2:B13), =SUM(C2:C13),=SUM(D2:D13),=SUM(E2:E13)
 
-*F14:H14
+*F14:H14*
 F=%Successful
 G=%Failed
 H=%Canceled
 =B2/E2, =C2/E2, =D2/E2
 
-*Verified SUM B14:E14 
+*Verified SUM B14:E14*
 =COUNTIFS('Kickstarter - Main'!$F:$F,"successful",'Kickstarter - Main'!$P:$P,"plays")
 
-![Outcomes_vs_Goals.png] (/resources/Outcomes_vss_Goals.png)
+![Outcomes_vs_Goals.png] (/resources/images/Outcomes_vs_Goals.png)
 
 ***Possible Challenges***
 *Not declaring column values as absolute values ($)
