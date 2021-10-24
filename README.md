@@ -1,3 +1,4 @@
+
 ### Kickstarter_Analysis
 
 ## Project Overview:  
@@ -106,3 +107,4 @@ The dataset's campaign name/description list relates to a personal concept to pu
 *
 ☒
 *
+*incomplete
