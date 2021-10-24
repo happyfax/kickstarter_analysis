@@ -104,7 +104,7 @@ The dataset's campaign name/description list relates to a personal concept to pu
 [10] *(check later if inside bootcampspot) Why did we highlight Row 3939: Fever - A Workshop Production? 
  ♡
 [ ] 
-*
+~
 ☒
-*
+~~
 *incomplete
