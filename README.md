@@ -1,5 +1,5 @@
 
-# Kickstarter_Analysis 🧈
+# 🧈 Kickstarter_Analysis 
 
 ## **Project Overview:**  
 This project analyzes how launch date and funding goals relate to outcomes for Kickstarter campaigns classified as Plays:Theater, the subcategory:Category with the largest number of outcomes.
