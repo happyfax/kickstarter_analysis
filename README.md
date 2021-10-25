@@ -21,9 +21,7 @@ Column T: Date Ended Conversion
 Column U: Year  
 ```=YEAR(S2:S4115)```  
 
-![Theater_Outcomes_vs_Launch](/rss/img/Theater_Outcomes_vs_Launch.png) 
-
-> ***Possible Challenges***  
+> ***Challenges***  
 Overcomplicated the Years category:  
 Tried to translate the launch date number via   
 =YEAR((((((J2/60)/60)/24)+DATE(1970,1,1))))+40150 and =((((K2/60)/60)/24)+DATE(1970,1,1))  
@@ -31,6 +29,8 @@ Tried to reference a character within an Excel formula after translating its out
 by outputting the result to a new cell, converting the cell, the "yyyy" within the output  
 Discovered `=(((M4/60)/60)/24/25550) = 1/0/1900`  
 Calculated the duration of the campaign using `=T2:T4115-S2:S4115` to find the 2mo|3mo mark have the most successes  
+
+![Theater_Outcomes_vs_Launch](/rss/img/Theater_Outcomes_vs_Launch.png) 
 
 ### Deliverable 2: Outcomes Based on Goals
 
@@ -61,12 +61,12 @@ H=%Canceled
 *Verified SUM B14:E14*    
 `=COUNTIFS('Kickstarter - Main'!$F:$F,"successful",'Kickstarter - Main'!$P:$P,"plays")`  
 
-![Outcomes_vs_Goals](/rss/img/Outcomes_vs_Goals.png)  
-
 > ***Possible Challenges***
 Not declaring column values as absolute values ($)  
 Linking between sheets  
 Declaring top and bottom value of ranges separately  
+
+![Outcomes_vs_Goals](/rss/img/Outcomes_vs_Goals.png)  
 
 ## **Results:**  
 
@@ -88,9 +88,9 @@ Declaring top and bottom value of ranges separately
 [2] https://reports.weforum.org/human-implications-of-digital-media-2016/downsides-and-risks/  
 [3] https://nautil.us/blog/-collective-intelligence-will-end-identity_based-politics  
 [4] https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code  
-[5] SituationsoftheFistSymbol.com
-[8] Permutations of Awesome()  
+[5] Permutations of Awesome()  
+[8] SituationsoftheFistSymbol.com
 [7] If I don't make money, at least I'll make SmallChanges.com  
-[6] Conceptual DigitalPillowFight (a href="www") Dedicated to the Original Mass Pillow Fight held in Seoul, SK  
-[10] *(check later if inside bootcampspot) Why did we highlight Row 3939: Fever - A Workshop Production?*  
+[6] Conceptual DigitalPillowFight (a href="www") Dedicated to the Original Mass Pillow Fight held in Seoul
+[10] 
 [**♡**]      
