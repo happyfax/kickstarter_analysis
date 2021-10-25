@@ -2,15 +2,14 @@
 # Kickstarter_Analysis 
 
 ## **Project Overview:**  
-This project analyzes how launch date and funding goals relate to outcomes for Kickstarter campaigns classified as Plays:Theater, the subcategory:Category with the largest number of outcomes. 🧈
-
+This project analyzes how launch date and funding goals relate to outcomes for Kickstarter campaigns classified as Plays:Theater, the subcategory:Category with the largest number of outcomes.  
 ## Purpose and Background:
 The dataset presents a compilation of data regarding Goals, Pledged Donations, Outcomes, Dates Launched, Dates Ended, Project Duration, Staff Picks, Backers, Spotlight, Category, Subcategory, Percentage Funded, Average Donation, and Year of 4114 Kickstarter campaigns from 21 countries `AT AU BE CA CH DE DK ES FR GB HK IE IT LU MX NL NO NZ SE SG US` using `EUR AUD CAD CHF DKK GBP HKD MXN NOK NZD SEK SGD USD`.  Analaysis of related data reveals parameters for identifying which areas of Kickstarter campaigns are most and least effective in outcome and pledges given associated factors.  
 
 ## **Analysis and Challenges**
 
 ### Deliverable 1: Outcomes Based on Launch Date Chart
-Column J = launched_at
+Column J = launched_at  
 Column I = deadline 
 
 Column S: Date Created Conversion  
@@ -93,6 +92,7 @@ Declaring top and bottom value of ranges separately
 [7] If I don't make money, at least I'll make SmallChanges.com  
 [6] Conceptual DigitalPillowFight (a href="www") Dedicated to the Original Mass Pillow Fight held in Seoul  
 [8] https://expmag.com/2021/10/the-key-to-a-kinder-gentler-internet-capybaras/  
-[**♡**] 
+[**♡**]  
+🧈
 
 
