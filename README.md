@@ -92,5 +92,5 @@ Declaring top and bottom value of ranges separately
 [8] SituationsoftheFistSymbol.com
 [7] If I don't make money, at least I'll make SmallChanges.com  
 [6] Conceptual DigitalPillowFight (a href="www") Dedicated to the Original Mass Pillow Fight held in Seoul  
-[10] 
+[10] https://expmag.com/2021/10/the-key-to-a-kinder-gentler-internet-capybaras/ !?
 [**♡**]        
