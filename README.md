@@ -30,7 +30,7 @@ by outputting the result to a new cell, converting the cell, the "yyyy" within t
 Discovered `=(((M4/60)/60)/24/25550) = 1/0/1900`  
 Calculated the duration of the campaign using `=T2:T4115-S2:S4115` to find the 2mo|3mo mark have the most successes  
 
-![Theater_Outcomes_vs_Launch](/rss/img/Theater_Outcomes_vs_Launch.png | width="100") 
+![Theater_Outcomes_vs_Launch](/rss/img/Theater_Outcomes_vs_Launch.png) 
 
 ### Deliverable 2: Outcomes Based on Goals
 
@@ -66,7 +66,7 @@ Not declaring column values as absolute values ($)
 Linking between sheets  
 Declaring top and bottom value of ranges separately  
 
-![Outcomes_vs_Goals](/rss/img/Outcomes_vs_Goals.png | width="100")  
+![Outcomes_vs_Goals](/rss/img/Outcomes_vs_Goals.png)  
 
 ## **Results:**  
 
