@@ -91,6 +91,6 @@ Declaring top and bottom value of ranges separately
 [5] Permutations of Awesome()  
 [8] SituationsoftheFistSymbol.com
 [7] If I don't make money, at least I'll make SmallChanges.com  
-[6] Conceptual DigitalPillowFight (a href="www") Dedicated to the Original Mass Pillow Fight held in Seoul
-[10] 
-[**♡**]      
+[6] Conceptual DigitalPillowFight (a href="www") Dedicated to the Original Mass Pillow Fight held in Seoul  
+[10]  
+[**♡**]        
