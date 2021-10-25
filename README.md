@@ -21,7 +21,7 @@ Column T: Date Ended Conversion
 Column U: Year  
 ```=YEAR(S2:S4115)```  
 
-`![Theater_Outcomes_vs_Launch] (/resources/images/Theater_Outcomes_vs_Launch.png)`  
+![Theater_Outcomes_vs_Launch](/rss/img/Theater_Outcomes_vs_Launch.png) 
 
 > ***Possible Challenges***  
 Overcomplicated the Years category:  
@@ -61,7 +61,7 @@ H=%Canceled
 *Verified SUM B14:E14*    
 `=COUNTIFS('Kickstarter - Main'!$F:$F,"successful",'Kickstarter - Main'!$P:$P,"plays")`  
 
-![Outcomes_vs_Goals] (/resources/images/Outcomes_vs_Goals.png)  
+![Outcomes_vs_Goals](/rss/img/Outcomes_vs_Goals.png)  
 
 > ***Possible Challenges***
 Not declaring column values as absolute values ($)  
