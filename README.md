@@ -88,6 +88,7 @@ Declaring top and bottom value of ranges separately
 [3] https://nautil.us/blog/-collective-intelligence-will-end-identity_based-politics  
 [4] https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code  
 [5] Permutations of Awesome()   
+[6] https://www.nytimes.com/interactive/2021/12/21/opinion/year-in-charts-2021.html
 [8] SituationsoftheFistSymbol.com  
 [7] If I don't make money, at least I'll make SmallChanges.com  
 [6] Conceptual DigitalPillowFight (a href="www") Dedicated to the Original Mass Pillow Fight held in Seoul  
