@@ -83,12 +83,12 @@ Declaring top and bottom value of ranges separately
 #### ***Addendum:***
 - [x] The dataset's campaign name/description list relates to one of a large number of personal concepts towards working on implementing, in various community collaborations, a 1min Film Fest for many different local areas where a group of folks will distribute QR codes in the city recruiting submissions of one-minute stories or actions in any format (social media included) from local communities in NYC.  They may be arranged in either an order of the participants' choosing, or in a chronological order of submission.  Once all the participants have registered, they will have the freedom to choose their position in the video editing reel, as well as accompanying descriptions and title of project, and if desired, input and participation into the creative process.  Program the framework of open entry and schedule.  Themes would be open choice can be assigned or randomly called if preferred.  If it ever becomes a recurrent event, experimenting by shifting the submissions to reel a specific day of week (possibly even on different days of the week from a different time zone internationally) versions. Entrants will sign a form of artist release and affirming that their content follows basic guidelines of social awareness and receive a participant's certificat as well as rights to the project, safety protocols, and access to its formation. The length of the campaign will run two months tentatively.  Outreach, influencers, open entry, no barriers.  There will be no locational tags (unless specifically requested) except in inception to target NYC/NYS. All related #initiatives attached.  Meetings on a bi-weekly basis and events on a monthly basis to connect, work, thank and appreciate participants in the project.  Eventually, to make or find a way to take the presentational pitch on the project, a tech rider, to administrations towards proposing being incorporated in BIPOC, Hispanic/Latinx, AAPI, LGBTQIA+, nonprofit-based Film Festivals, to display it in a site specific professional setting with no artist name, or have a version to share with international local artist film festival organizers, as an experience.  Applications of appropriate strategies.  No referential concepts other than experience, observations, ideas, similar thinking, and similar events personally generated overseas. Can draft a website that can display the videos in a (due to personal programming limitations), a randomized array, list, or table; specific spots can be activated by the individual's choosing (e.g., if someone wants to push display their submission on the site from any location at the time of their choosing during a preliminary screening duration of the project, they can click on a web interface button.  All additional appropriate necessary considerations bearing no expectations as to the outcome.  
 
-[1] https://www.apa.org/monitor/2019/11/cover-politics
-[2] https://reports.weforum.org/human-implications-of-digital-media-2016/downsides-and-risks/
-[3] https://nautil.us/blog/-collective-intelligence-will-end-identity_based-politics
-[4] Permutations of Awesome()
-[5] https://www.nytimes.com/interactive/2021/12/21/opinion/year-in-charts-2021.html
-[6] If I don't make money, at least I'll make SmallChanges.com
-[7] Digital pillow fight
+[1] https://www.apa.org/monitor/2019/11/cover-politics <br>
+[2] https://reports.weforum.org/human-implications-of-digital-media-2016/downsides-and-risks/  <br>
+[3] https://nautil.us/blog/-collective-intelligence-will-end-identity_based-politics  <br>
+[4] Permutations of Awesome()  <br>
+[5] https://www.nytimes.com/interactive/2021/12/21/opinion/year-in-charts-2021.html  <br>
+[6] If I don't make money, at least I'll make SmallChanges.com  <br>
+[7] Digital pillow fight  <br>
 
 
